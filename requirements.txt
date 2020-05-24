@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 django==2.2
 djangorestframework==3.9.2
+=======
+django==2.2
+djangorestframework==3.9.2
+>>>>>>> bf334e83138ba6f2639e6d216a059b1a601646e1
